@@ -1,0 +1,4 @@
+#v2
+1
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/الطقس/app/src/main/java/com/klencod/weather/WeatherBackgroundView.java	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/الطقس/app/src/main/AndroidManifest.xml	549	8	text
